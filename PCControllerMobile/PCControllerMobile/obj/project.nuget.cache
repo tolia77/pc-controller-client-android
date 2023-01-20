@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LSkza6py8mByc+0kUlljJmJAIE2eEeGEi8lnL0j02EN44i83SNh+a9tfLYKl840XNwxTZyp77FYnCCuoeTN2Iw==",
+  "success": true,
+  "projectFilePath": "D:\\CSHARP\\PCControllerMobile\\PCControllerMobile\\PCControllerMobile\\PCControllerMobile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meezmo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Meezmo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Meezmo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Meezmo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Meezmo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

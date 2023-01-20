@@ -1,0 +1,15 @@
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\bin\Release\netstandard2.0\PCControllerMobile.deps.json
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\bin\Release\netstandard2.0\PCControllerMobile.dll
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\bin\Release\netstandard2.0\PCControllerMobile.pdb
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\PCControllerMobile.csproj.AssemblyReference.cache
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\PCControllerMobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\PCControllerMobile.AssemblyInfoInputs.cache
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\PCControllerMobile.AssemblyInfo.cs
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\PCControllerMobile.csproj.CoreCompileInputs.cache
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\XamlC.stamp
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\PCControllerMobile.dll
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\refint\PCControllerMobile.dll
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\PCControllerMobile.pdb
+D:\CSHARP\PCControllerMobile\PCControllerMobile\PCControllerMobile\obj\Release\netstandard2.0\ref\PCControllerMobile.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A79C9snMti/pQAzfY9jgxBJhJX6nX0m3urv2d/RVFKMlgzfLWo22hwuABEOSYknctzFHrKc9HtgoixUO8mTZEQ==",
+  "success": true,
+  "projectFilePath": "D:\\CSHARP\\PCControllerMobile\\PCControllerMobile\\PCControllerMobile.iOS\\PCControllerMobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meezmo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Meezmo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Meezmo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

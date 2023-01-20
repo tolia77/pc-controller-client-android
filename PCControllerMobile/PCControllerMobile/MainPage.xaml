@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PCControllerMobile.MainPage">
+
+    <StackLayout BackgroundColor="Aqua">
+        <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="0" BorderColor="Black">
+            <Label Text="PC Controller" HorizontalTextAlignment="Center" TextColor="White" FontSize="24" FontAttributes="Bold"/>
+        </Frame>
+        <Button x:Name="InputIPButton" Text="Input IP" Clicked="InputIPPressed" BackgroundColor="#2196F3" BorderColor="Black" BorderWidth="1"/>
+        <Entry x:Name="IPEntry" Placeholder="IP"/>
+
+        <Button x:Name="MoveMouseButton" Text="Move mouse" Clicked="MoveMousePressed" BackgroundColor="#2196F3" BorderColor="Black" BorderWidth="1"/>
+        <StackLayout x:Name="MoveMouseInputField">
+            
+        </StackLayout>
+
+        <Button x:Name="GetScreenshotButton" Text="Get screenshot" Clicked="GetScreenshotPressed" BackgroundColor="#2196F3" BorderColor="Black" BorderWidth="1"/>
+        <Image x:Name ="ScreenshotImage" Source="no_image.jpg"/>
+        <Button x:Name="OpenLinkButton" Text="Open link" Clicked="OpenLinkPressed" BackgroundColor="#2196F3" BorderColor="Black" BorderWidth="1"/>
+        <StackLayout x:Name="OpenLinkInputField">
+
+        </StackLayout>
+        <Button x:Name="CmdExecuteButton" Text="Execute in CMD" Clicked="CMDExecutePressed" BackgroundColor="#2196F3" BorderColor="Black" BorderWidth="1"/>
+        <StackLayout x:Name="CMDExecuteInputField">
+
+        </StackLayout>
+        <Button x:Name="ShutdownPcButton" Text="Shutdown PC" Clicked="ShutdownPCPressed" BackgroundColor="#2196F3" BorderColor="Black" BorderWidth="1"/>
+        <Button x:Name="RestartPcButton" Text="Restart PC" Clicked="RestartPCPressed" BackgroundColor="#2196F3" BorderColor="Black" BorderWidth="1"/>
+    </StackLayout>
+
+</ContentPage>
